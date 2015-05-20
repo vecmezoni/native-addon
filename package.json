@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/vecmezoni/native-addon/issues"
   },
-  "homepage": "https://github.com/vecmezoni/native-addon"
+  "homepage": "https://github.com/vecmezoni/native-addon",
+  "dependencies": {
+    "bindings": "^1.2.1",
+    "nan": "^1.8.4"
+  }
 }
