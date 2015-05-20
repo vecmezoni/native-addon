@@ -1,0 +1,20 @@
+{
+  "name": "native-addon",
+  "version": "0.0.1",
+  "description": "Hello world node addon",
+  "main": "binding.js",
+  "scripts": {
+    "install": "node-gyp rebuild"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vecmezoni/native-addon.git"
+  },
+  "author": "Alexander Inozemtsev",
+  "license": "MIT",
+  "gypfile": true,
+  "bugs": {
+    "url": "https://github.com/vecmezoni/native-addon/issues"
+  },
+  "homepage": "https://github.com/vecmezoni/native-addon"
+}
